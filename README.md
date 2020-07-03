@@ -1,5 +1,5 @@
 
-> Diese Seite bei [https://ard-dev.github.io/servo_test/](https://ard-dev.github.io/servo_test/) öffnen
+> Diese Seite bei [https://ard-dev.github.io/pxt-servo/](https://ard-dev.github.io/pxt-servo/) öffnen
 
 ## Als Erweiterung verwenden
 
@@ -8,7 +8,7 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 * öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klicke auf **Neues Projekt**
 * klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/ard-dev/servo_test** suchen und importieren
+* nach **https://github.com/ard-dev/pxt-servo** suchen und importieren
 
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/ard-dev/servo_test/workflows/MakeCode/badge.svg)
 
@@ -16,14 +16,14 @@ Um dieses Repository in MakeCode zu bearbeiten.
 
 * öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/ard-dev/servo_test** ein und klicke auf Importieren
+* füge **https://github.com/ard-dev/pxt-servo** ein und klicke auf Importieren
 
 ## Blockvorschau
 
 Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
 Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
-![Eine gerenderte Ansicht der Blöcke](https://github.com/ard-dev/servo_test/raw/master/.github/makecode/blocks.png)
+![Eine gerenderte Ansicht der Blöcke](https://github.com/ard-dev/pxt-servo/raw/master/.github/makecode/blocks.png)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
