@@ -3,12 +3,12 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "servo": "*"
+        "radio": "*"       
     },
     "files": [
         "main.blocks",
         "main.ts",
+        "servo": "*",
         "README.md"
     ],
     "testFiles": [
